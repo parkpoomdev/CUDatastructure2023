@@ -16,18 +16,3 @@
 -- Q6: Find pairs of actors who have worked together in the same film.
 -- YOUR ANSWER HERE
 
--- Q7: List the unique names of actors and customers.
--- YOUR ANSWER HERE
-
--- Q8: Count the number of films in each category.
--- YOUR ANSWER HERE
-
--- Q9: Find categories that have more than 50 films.
--- YOUR ANSWER HERE
-
--- Q10: Find customers who have made at least one payment.
--- YOUR ANSWER HERE
-
--- Q11: Find films that have a rental duration shorter than any film in the 'Action' category.
--- YOUR ANSWER HERE
-
